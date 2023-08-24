@@ -18,6 +18,10 @@ cd /terraform-evaluation/lab2
 ```bash
 $ terrascan scan
 ```
+* Step 4: Comment line number 8 and Uncomment line number 9
+
+  - publicly_accessible   = false    
+  #publicly_accessible   = true 
 
 
 
