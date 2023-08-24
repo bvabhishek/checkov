@@ -13,7 +13,7 @@ $terrascan
 ```bash
 cd /terraform-evaluation/lab2
 ```
-* Step 2: Run Checkov tool 
+* Step 2: Run terrascan tool 
 
 ```bash
 $ terrascan scan
@@ -23,7 +23,7 @@ $ terrascan scan
   - publicly_accessible   = false    
   #publicly_accessible   = true 
 
-
+* Check for the scanned result and fix the code and re run step 2
 
 # Checkov
 
