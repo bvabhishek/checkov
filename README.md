@@ -32,7 +32,7 @@ terraform apply -auto-approve
 ```bash
 checkov -d .
 ```
-* You can now see that we have CKV_AWS_10 PASSED
+* You can now see that we have CKV_AWS_10th check of ensuring Password lenght to be min 14 or greater characters being PASSED
   
 * Step 6: You will see that the check is cleared 
 
