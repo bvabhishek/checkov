@@ -11,7 +11,7 @@ $terrascan
 * Step 1: Change Directory
 
 ```bash
-cd /terraform-evaluation/lab2
+cd /terraform-evaluation/main_terrascan.tf
 ```
 * Step 2: Run terrascan tool 
 
